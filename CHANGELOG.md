@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.2](https://www.github.com/googleapis/python-bigquery-logging/compare/v0.1.1...v0.1.2) (2021-06-19)
+
+
+### Documentation
+
+* omit mention of Python 2.7 in 'CONTRIBUTING.rst' ([#1127](https://www.github.com/googleapis/python-bigquery-logging/issues/1127)) ([#7](https://www.github.com/googleapis/python-bigquery-logging/issues/7)) ([53f6808](https://www.github.com/googleapis/python-bigquery-logging/commit/53f6808fa2b317ee5f9a4ca0a54214267cc1dce0)), closes [#1126](https://www.github.com/googleapis/python-bigquery-logging/issues/1126)
+
 ### [0.1.1](https://www.github.com/googleapis/python-bigquery-logging/compare/v0.1.0...v0.1.1) (2021-06-16)
 
 
