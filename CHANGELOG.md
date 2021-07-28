@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/googleapis/python-bigquery-logging/compare/v0.2.0...v0.3.0) (2021-07-28)
+
+
+### Features
+
+* add Samples section to CONTRIBUTING.rst ([#18](https://www.github.com/googleapis/python-bigquery-logging/issues/18)) ([c157b7f](https://www.github.com/googleapis/python-bigquery-logging/commit/c157b7febc2e2e62bc6dbd8d6b02ef3aa6ac2c3f))
+
+
+### Bug Fixes
+
+* **deps:** pin 'google-{api,cloud}-core', 'google-auth' to allow 2.x versions ([#22](https://www.github.com/googleapis/python-bigquery-logging/issues/22)) ([c18bc2d](https://www.github.com/googleapis/python-bigquery-logging/commit/c18bc2da92e0823178e59804d4ac2c2824feb3a7))
+
 ## [0.2.0](https://www.github.com/googleapis/python-bigquery-logging/compare/v0.1.1...v0.2.0) (2021-07-14)
 
 
